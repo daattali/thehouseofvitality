@@ -15,17 +15,18 @@ description: "Acupuncture for Women's Health and Fertility in Thornhill. The Hou
 timezone: "America/Toronto"
 permalink: /blog/:title/
 paginate: 10
-paginate_path: "/page:num/"
+paginate_path: "/blog/page:num/"
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index.html"
-  About: "about.md"
-  Treatments: "treatments.md"
-  Products: "products.md"
-  Contact: "contact.md"
+  Home: "index"
+  About: "about"
+  Treatments: "treatments"
+  Products: "products"
+  Blog: "blog"
+  Contact: "contact"
 
 # --- Footer options --- #
 
